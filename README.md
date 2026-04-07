@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mehdi Mohammadi (@mehmoh41)
+# 👋 Hi, I'm Mehdi Mohammadi (@mehmoh.dev)
 
 🚀 Full-Stack Developer | Freelancer | Founder of [@OmaghSolutions](https://omaghsolutions.com).
 
@@ -17,9 +17,9 @@
 ---
 
 ### 📫 Let’s Connect
-- 📧 Email: **moh.meh41@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/mehmoh41](https://linkedin.com/in/mehmoh41)  
-- 🐦 Twitter: [twitter.com/mehmoh41](https://twitter.com/mehmoh41)  
+- 📧 Email: **mehmoh.dev@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/mehmoh41](https://linkedin.com/in/mehmoh.dev)  
+- 🐦 Twitter: [twitter.com/mehmoh41](https://twitter.com/mehmoh.dev)  
 
 ---
 
