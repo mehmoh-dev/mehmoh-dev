@@ -18,8 +18,8 @@
 
 ### 📫 Let’s Connect
 - 📧 Email: **mehmoh.dev@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/mehmoh41](https://linkedin.com/in/mehmoh.dev)  
-- 🐦 Twitter: [twitter.com/mehmoh41](https://twitter.com/mehmoh.dev)  
+- 💼 LinkedIn: [linkedin.com/in/mehmoh41](https://linkedin.com/in/mehmoh-dev)  
+- 🐦 Twitter: [twitter.com/mehmoh41](https://twitter.com/mehmoh41)  
 
 ---
 
