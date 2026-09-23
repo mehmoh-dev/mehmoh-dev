@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mehdi Mohammadi (@mehmoh.dev)
 
-🚀 Full-Stack Developer | Freelancer | Founder of [@OmaghSolutions](https://omaghsolutions.com).
+🚀 Full-Stack Developer | Freelancer | Founder of ** TestKhana **(testkhana.com) & ** Karobar App **.
 
 ---
 
